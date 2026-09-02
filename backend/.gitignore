@@ -1,0 +1,10 @@
+node_modules/
+.env
+data.sqlite
+data.sqlite-journal
+data.sqlite-wal
+data.sqlite-shm
+uploads/packages/*
+!uploads/packages/.gitkeep
+uploads/seed/*
+!uploads/seed/.gitkeep
